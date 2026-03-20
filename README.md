@@ -1,28 +1,49 @@
-Hi, I'm Ayushi Koul 👋
-Senior DevOps Engineer | AWS · Azure · GCP | Kubernetes · Terraform · CI/CD | Cloud Security & Infrastructure Automation
+# Hi, I'm Ayushi Koul 👋
+
+### Senior DevOps Engineer | AWS · Azure · GCP | Kubernetes · Terraform · CI/CD | Cloud Security & Infrastructure Automation
+
 I'm a DevOps Engineer with 4.5+ years of experience building secure, scalable cloud infrastructure across AWS and Azure. I'm passionate about automating everything — from CI/CD pipelines to security permissioning — and I'm currently expanding into GCP and Web3 infrastructure security.
 
-🛠️ Tech Stack
-CategoryTools☁️ CloudAWS, Azure, GCP
-🐳 ContainersDocker, Kubernetes, EKS, AKS
-🏗️ IaCTerraform, AWS CloudFormation
-🔄 CI/CDGitHub Actions, Jenkins, Azure DevOps, AWS CodePipeline
-🔐 SecurityIAM, SAST/DAST, AWS Secrets Manager, Azure Key Vault, SOC2
-📜 ScriptingBash, Python, PowerShell
-📊 MonitoringCloudWatch, Azure Monitor, Log Analytics
+---
 
-🚀 Featured Projects
-🔋 devops-web3-infra
-Terraform + GitHub Actions infrastructure setup designed for Web3 backend services — secure VPC, secrets management, ECS deployment, and automated CI/CD pipeline.
-☁️ s3_using_terraform
+## 🛠️ Tech Stack
+
+| Category | Tools |
+| :--- | :--- |
+| ☁️ Cloud | AWS, Azure, GCP |
+| 🐳 Containers | Docker, Kubernetes, EKS, AKS |
+| 🏗️ IaC | Terraform, AWS CloudFormation |
+| 🔄 CI/CD | GitHub Actions, Jenkins, Azure DevOps, AWS CodePipeline |
+| 🔐 Security | IAM, SAST/DAST, AWS Secrets Manager, Azure Key Vault, SOC2 |
+| 📜 Scripting | Bash, Python, PowerShell |
+| 📊 Monitoring | CloudWatch, Azure Monitor, Log Analytics |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔋 [devops-web3-infra](https://github.com/AYUSHIKOUL/devops-web3-infra)
+Terraform + GitHub Actions infrastructure for Web3 backend services — secure VPC, secrets management, ECS deployment, and automated CI/CD pipeline.
+
+### ☁️ [s3_using_terraform](https://github.com/AYUSHIKOUL/s3_using_terraform)
 Terraform module to provision and manage AWS S3 buckets with versioning, encryption, and lifecycle policies.
-🔄 node_CICD
+
+### 🔄 [node_CICD](https://github.com/AYUSHIKOUL/node_CICD)
 CI/CD pipeline using GitHub Actions for automated Node.js build, test, and deployment workflows.
 
-📈 What I've Built in Production
+---
 
-⚡ Reduced deployment time by 60% with CI/CD automation and zero-downtime strategies
-💰 Cut cloud costs by 40% through autoscaling and rightsizing across AWS & Azure
-🔐 Zero security breaches across all deployments — enforced IAM least-privilege + SOC2 compliance
-🏗️ Architected event-driven microservices on ECS Fargate, EKS, and Lambda
-🔑 Managed private key infrastructure and secrets lifecycle using AWS Secrets Manager & Azure Key Vault
+## 📈 What I've Built in Production
+
+- ⚡ Reduced deployment time by **60%** with CI/CD automation and zero-downtime strategies
+- 💰 Cut cloud costs by **40%** through autoscaling and rightsizing across AWS & Azure
+- 🔐 Zero security breaches across all deployments — enforced IAM least-privilege + SOC2 compliance
+- 🏗️ Architected event-driven microservices on ECS Fargate, EKS, and Lambda
+- 🔑 Managed private key infrastructure and secrets lifecycle using AWS Secrets Manager & Azure Key Vault
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koulayushi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:koulayushi1999@gmail.com)
