@@ -3,7 +3,7 @@ Senior DevOps Engineer | AWS · Azure · GCP | Kubernetes · Terraform · CI/CD 
 I'm a DevOps Engineer with 4.5+ years of experience building secure, scalable cloud infrastructure across AWS and Azure. I'm passionate about automating everything — from CI/CD pipelines to security permissioning — and I'm currently expanding into GCP and Web3 infrastructure security.
 
 🛠️ Tech Stack
-CategoryTools☁️ CloudAWS, Azure, GCP (in progress)
+CategoryTools☁️ CloudAWS, Azure, GCP
 🐳 ContainersDocker, Kubernetes, EKS, AKS
 🏗️ IaCTerraform, AWS CloudFormation
 🔄 CI/CDGitHub Actions, Jenkins, Azure DevOps, AWS CodePipeline
